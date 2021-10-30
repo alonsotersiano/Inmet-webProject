@@ -13,7 +13,7 @@ https://cli.vuejs.org/guide/installation.html
 
 ## Project setup
 ```
-1-Go to meteo folder and execute the command below:
+1-Go to project folder and execute the command below:
 npm install
 ```
 
