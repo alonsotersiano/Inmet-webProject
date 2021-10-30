@@ -3,6 +3,9 @@
 Recommended IDE to open the project:
 https://code.visualstudio.com/download
 
+To install GitHub:
+https://github.com/git-guides/install-git
+
 Step-by-step to run it locally:
 
 1- Install nodeJs:
